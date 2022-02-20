@@ -1,9 +1,9 @@
 import React from 'react';
-import Katalog from './components/Products/Products';
+import Products from './components/Products/Products';
 
 const App = () => {
   return (
-    <Katalog/>
+    <Products/>
   )
 }
 
