@@ -1,11 +1,11 @@
 # watermelonWeb
 
-backend commerceJS, frontend nextJS
+backend commerceJS, frontend reactJS
 
 #To-DO List
 
-- [ ] Initialization/Setup
-- [ ] Mock Produk
+- [x] Initialization/Setup
+- [x] Mock Produk
 - [ ] Navbar
 - [ ] CommerceJS Produk
 - [ ] Cart Style

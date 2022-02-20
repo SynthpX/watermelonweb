@@ -1,8 +1,9 @@
-import React from 'react'
+import React from 'react';
+import Katalog from './components/Products/Products';
 
 const App = () => {
   return (
-    <div>App</div>
+    <Katalog/>
   )
 }
 
